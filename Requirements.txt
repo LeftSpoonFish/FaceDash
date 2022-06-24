@@ -1,0 +1,13 @@
+streamlit
+mediapipe
+cv2
+numpy
+tempfile
+time
+PIL
+pandas
+matplotlib
+plotly
+plotly.express
+matplotlib.image
+base64
