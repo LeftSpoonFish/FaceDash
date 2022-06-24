@@ -34,7 +34,7 @@ mp_drawing = mp.solutions.drawing_utils
 mp_face_mesh = mp.solutions.face_mesh
 
 #DEMO_VIDEO = 'demo.mp4'
-DEMO_IMAGE = ('/Users/mark/Bio/Faces/logo.jpg')
+DEMO_IMAGE = ('./logo.jpg')
 
 st.title('Face Mesh Application using MediaPipe')
 
@@ -117,7 +117,7 @@ if app_mode =='Introduction':
            
             This app creates 3D renders of 2D faces
         
-            If you are feeling generous you can buy me a **cup of  coffee ** from [HERE](www.LeftSpoonFish.com)
+            If you are feeling generous you can buy me a **cup of  coffee ** from [HERE](http://www.LeftSpoonFish.com)
              
             ''')
 
