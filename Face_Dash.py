@@ -180,7 +180,7 @@ elif app_mode =='Process an Image':
             mp_drawing.draw_landmarks(
             image=out_image,
             landmark_list=face_landmarks,
-            connections=mp_face_mesh.FACE_CONNECTIONS,
+            connections=mp_face_mesh.FACEMESH_CONTOURS,
             landmark_drawing_spec=drawing_spec,
             connection_drawing_spec=drawing_spec)
             kpi1_text.write(f"<h1 style='text-align: center; color: red;'>{face_count}</h1>", unsafe_allow_html=True)
