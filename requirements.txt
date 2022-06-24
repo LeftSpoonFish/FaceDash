@@ -9,6 +9,4 @@ PIL
 pandas
 numpy
 matplotlib
-matplotlib.image
-plotly.graph_objects
-plotly.express
+plotly
