@@ -1,8 +1,9 @@
 name: base
 channels:
-  - pyviz
-  - defaults
+  - pypi
+  - conda-forge
 dependencies:
+-pip:
   - _ipyw_jlab_nb_ext_conf=0.1.0=py37_0
   - alabaster=0.7.12=py37_0
   - anaconda=2021.05=py37_0
