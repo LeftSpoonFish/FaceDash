@@ -1,4 +1,5 @@
 streamlit
+streamlit-drawable-canvas
 mediapipe
 opencv-contrib-python
 opencv-python
