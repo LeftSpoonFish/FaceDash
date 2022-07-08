@@ -13,5 +13,5 @@ pybase64
 
 streamlit-drawable-canvas
 pathlib
-io
+#io
 base64
