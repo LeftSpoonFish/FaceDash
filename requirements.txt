@@ -12,6 +12,6 @@ plotly
 pybase64
 
 streamlit-drawable-canvas
-pathlib
+#pathlib
 #io
-base64
+#base64
