@@ -11,6 +11,7 @@ matplotlib
 plotly
 pybase64
 
+streamlit-aggrid
 streamlit-drawable-canvas
 #pathlib
 #io
