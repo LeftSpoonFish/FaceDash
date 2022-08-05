@@ -17,6 +17,7 @@ stqdm
 fer
 streamlit-aggrid
 streamlit-drawable-canvas
+wget
 #pathlib
 #io
 #base64
