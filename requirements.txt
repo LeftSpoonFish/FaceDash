@@ -18,6 +18,7 @@ stqdm
 fer
 streamlit-aggrid
 streamlit-drawable-canvas
+py-feat
 wget
 #pathlib
 #io
