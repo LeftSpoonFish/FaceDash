@@ -11,6 +11,10 @@ matplotlib
 plotly
 pybase64
 
+glob
+torch
+stqdm
+fer
 streamlit-aggrid
 streamlit-drawable-canvas
 #pathlib
