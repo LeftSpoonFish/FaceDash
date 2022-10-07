@@ -23,4 +23,5 @@ wget
 #pathlib
 #io
 #base64
-exiftool
+PyExifTool==0.5.4
+pyexiv2==2.8.0
