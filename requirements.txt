@@ -26,7 +26,8 @@ wget
 geopandas
 geopy
 branca
-PyExifTool==0.5.4
+#PyExifTool==0.5.4
+PyExifTool
 pyexiv2==2.8.0
 folium==0.12.1.post1
 locationtagger==0.0.1
