@@ -25,7 +25,7 @@ wget
 
 #geotrax
 geopandas
-geopy
+#geopy
 branca
 PyExifTool==0.5.4
 pyexiv2==2.8.0
