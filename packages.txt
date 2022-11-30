@@ -1,2 +1,6 @@
 freeglut3-dev
 libgtk2.0-dev
+#20221130 Changes
+exiftool
+libmagic1
+python3-opencv
